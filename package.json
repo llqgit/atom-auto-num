@@ -1,7 +1,7 @@
 {
   "name": "auto-num",
   "main": "./lib/auto-num",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A multi line number increase plugin",
   "keywords": [
     "multiline",
@@ -17,6 +17,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
