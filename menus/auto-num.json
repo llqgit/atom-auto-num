@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle auto-num",
+        "command": "auto-num:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "auto-num",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "auto-num:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

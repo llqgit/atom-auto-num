@@ -1,0 +1,22 @@
+{
+  "name": "auto-num",
+  "main": "./lib/auto-num",
+  "version": "0.0.0",
+  "description": "A multi line number increase plugin",
+  "keywords": [
+    "multiline",
+    "number",
+    "increase",
+    "auto"
+  ],
+  "activationCommands": {
+    "atom-workspace": "auto-num:toggle"
+  },
+  "repository": "https://github.com/llqgit/atom-auto-num",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
